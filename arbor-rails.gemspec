@@ -6,7 +6,7 @@ require "arbor-rails/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "arbor-rails"
-  s.version     = ArborRails::VERSION
+  s.version     = Arbor::Rails::VERSION
   s.authors     = ["Robert Fletcher"]
   s.email       = ["lobatifricha@gmail.com"]
   s.homepage    = "https://github.com/mockdeep/arbor-rails"
