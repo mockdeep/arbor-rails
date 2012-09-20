@@ -1,3 +1,7 @@
+## 0.0.3 (19 September 2012)
+
+  - Fix bug where vendor directory was missing
+
 ## 0.0.2 (19 September 2012)
 
   - Cleaning up Gemfile
