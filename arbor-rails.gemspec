@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "Use Arbor.js with Rails"
   s.description = "This gem provides Arbor.js for your Rails 3 application."
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "railties", ">= 3.1.0", "< 5.0"
