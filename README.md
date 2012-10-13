@@ -1,5 +1,7 @@
 # arbor-rails
 
+*Note*: This gem won't work properly in production mode as there are some weird pathing issues in arbor.js.  Until it's fixed, might I recommend [d3_rails](https://github.com/logical42/d3_rails)?
+
 This gem provides Arbor.js for your rails application.  Add it to your Gemfile:
 
 ```ruby
